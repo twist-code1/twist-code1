@@ -25,4 +25,5 @@ I build scalable web applications and robust server-side systems using the **Typ
 
 #### 📫 Connect & Profiles
 * **CodeWars:** [twist-code1 (4 kyu)](https://www.codewars.com/users/twist-code1)
+* **Telegram:** [@peaon](https://t.me/peaon)
 * **Location:** Yerevan, Armenia 🇦🇲
