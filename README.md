@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm a Full-Stack Developer focused on Backend Architecture & Web
 
-<!--
-**twist-code1/twist-code1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build scalable web applications and robust server-side systems using the **TypeScript** ecosystem. Currently deepening my expertise in relational database design, backend architecture with **NestJS**, and integrating ML/LLM models into production web apps.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠 Tech Stack
+
+* **Languages:** TypeScript, JavaScript (ES6+), SQL, Python, HTML5/CSS3
+* **Backend:** Node.js, NestJS, Prisma ORM, REST APIs
+* **Databases:** PostgreSQL, Firebase (Firestore / Realtime DB)
+* **Frontend:** React, Vite, Three.js / WebGL / p5.js, Chart.js
+* **Tools & OS:** Linux (Mint / Ubuntu), Docker, Git, DBeaver, VS Code, Postman
+
+---
+
+#### 🚀 Featured Projects
+
+* **[Սերունդների կամուրջ (Bridge of Generations)](https://serundneri-kamurj.web.app)** — A social web platform connecting students with elderly care homes in Yerevan. Reached real-world deployment and community impact.
+* **[NÖNÖ Concept](https://nono-concept.web.app)** — Modern web platform and commercial landing concept built with React, Vite, and TypeScript.
+* **Backend API Architecture (NestJS + Prisma)** — Modular REST API featuring relational data modeling in PostgreSQL, custom Guards/Pipes, and transactional logic.
+* **[AstroDodge](https://twist-code1.github.io/AstroDodge/)** — 3D space arcade game powered by Three.js/WebGL and packaged as a desktop app via Electron.
+
+---
+
+#### 📫 Connect & Profiles
+* **CodeWars:** [twist-code1 (4 kyu)](https://www.codewars.com/users/twist-code1)
+* **Location:** Yerevan, Armenia 🇦🇲
